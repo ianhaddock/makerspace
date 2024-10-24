@@ -1,0 +1,16 @@
+# .gitignore
+
+.DS_Store
+
+handouts*/*
+
+*.License 
+*.tar.xz
+*.tar.gz
+*.tar
+*.zip 
+*.rpm 
+*.pub
+
+# temp files from editors
+*~
